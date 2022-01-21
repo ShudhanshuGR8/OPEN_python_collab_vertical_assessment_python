@@ -1,0 +1,2 @@
+# OPEN_python_collab_vertical_assessment_python
+Completed the Assessment for Python for Collaboration vertical
